@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wzaremba
-- 👀 I’m interested in Arduino, Models (RC/Scale), Electronics
+- 👋 Hi, I’m Wojciech Zaremba
+- 👀 I’m interested in Arduino/RasPI, Models (RC/Scale), Electronics, home automation
 - 🌱 I’m currently learning Kubernetes, Cloud, Microservices, Streaming 
 - 💞️ I’m looking to collaborate on Electronics projects
 - 📫 How to reach me - wzaremba@dbcc.pl
