@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino/RasPI, Models (RC/Scale), Electronics, home automation
 - 🌱 I’m currently learning Kubernetes, Cloud, Microservices, Streaming 
 - 💞️ I’m looking to collaborate on Electronics projects
-- 📫 How to reach me - wzaremba@dbcc.pl
+- 📫 How to reach me - wz@dbcc.pl
 
 <!---
 wzaremba/wzaremba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
